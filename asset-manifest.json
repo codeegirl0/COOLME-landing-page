@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/COOLME-landing-page/static/css/main.92486302.css",
+    "main.js": "/COOLME-landing-page/static/js/main.0c987c20.js",
+    "static/js/787.6606bfd5.chunk.js": "/COOLME-landing-page/static/js/787.6606bfd5.chunk.js",
+    "static/media/man2.jpg": "/COOLME-landing-page/static/media/man2.6b73fd246a999fb8e32e.jpg",
+    "static/media/weavy1.mp4": "/COOLME-landing-page/static/media/weavy1.9d01c8b0d91cec00a23e.mp4",
+    "static/media/woman1.jpg": "/COOLME-landing-page/static/media/woman1.bc130f63daeacfdc7b85.jpg",
+    "static/media/man1.jpg": "/COOLME-landing-page/static/media/man1.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/pay.gif": "/COOLME-landing-page/static/media/pay.0b038abb3f3724ca3074.gif",
+    "static/media/gift_box.gif": "/COOLME-landing-page/static/media/gift_box.3e692fa80160ecd3685a.gif",
+    "static/media/hoodie4.webp": "/COOLME-landing-page/static/media/hoodie4.2702b7099927936e4e5b.webp",
+    "static/media/pay_safe.gif": "/COOLME-landing-page/static/media/pay_safe.5c48b8cc1f268e93d7ff.gif",
+    "static/media/hoodieH2.webp": "/COOLME-landing-page/static/media/hoodieH2.b89d0ac9a50cd0973508.webp",
+    "static/media/header-bg2.png": "/COOLME-landing-page/static/media/header-bg2.b93b937a648f051854f5.png",
+    "static/media/header-bg1.png": "/COOLME-landing-page/static/media/header-bg1.ad0aa4efe51844398a33.png",
+    "static/media/mastercard.png": "/COOLME-landing-page/static/media/mastercard.6763ff672c5e86cba770.png",
+    "static/media/hoodie3.webp": "/COOLME-landing-page/static/media/hoodie3.81c0359a8b71c902d897.webp",
+    "static/media/hoodie8.webp": "/COOLME-landing-page/static/media/hoodie8.ff50b05a4a35f9d0d9df.webp",
+    "static/media/hoodie7.webp": "/COOLME-landing-page/static/media/hoodie7.fe78a932255fe7c2a108.webp",
+    "static/media/hoodie5.webp": "/COOLME-landing-page/static/media/hoodie5.d6f762711533185aa4dd.webp",
+    "static/media/hoodie9.webp": "/COOLME-landing-page/static/media/hoodie9.69df45b427becf644efc.webp",
+    "static/media/hoodie1.webp": "/COOLME-landing-page/static/media/hoodie1.70c882b2d66d4ae330f7.webp",
+    "static/media/visa.png": "/COOLME-landing-page/static/media/visa.fad00ee0054f32d7ceb4.png",
+    "static/media/hoodie6.webp": "/COOLME-landing-page/static/media/hoodie6.7aa8771bca0c1e318ade.webp",
+    "static/media/hoodie2.webp": "/COOLME-landing-page/static/media/hoodie2.9a2ca58386536cc21141.webp",
+    "static/media/paypal.png": "/COOLME-landing-page/static/media/paypal.8e8452464b211e13ec45.png",
+    "static/media/apple-pay.png": "/COOLME-landing-page/static/media/apple-pay.7b22a67eb5144e7fdfc7.png",
+    "static/media/review-bg.png": "/COOLME-landing-page/static/media/review-bg.94b7a63dc0f4e7c10f6a.png",
+    "index.html": "/COOLME-landing-page/index.html",
+    "main.92486302.css.map": "/COOLME-landing-page/static/css/main.92486302.css.map",
+    "main.0c987c20.js.map": "/COOLME-landing-page/static/js/main.0c987c20.js.map",
+    "787.6606bfd5.chunk.js.map": "/COOLME-landing-page/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92486302.css",
+    "static/js/main.0c987c20.js"
+  ]
+}
